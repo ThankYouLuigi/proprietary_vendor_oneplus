@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),oneplus2)
+ifeq ($(TARGET_DEVICE),taco)
 ifeq ($(QCPATH),)
 
 include $(CLEAR_VARS)
